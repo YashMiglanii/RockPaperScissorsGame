@@ -1,1 +1,1 @@
-# SlotMachineGame
+# RockPaperScissorsGame
